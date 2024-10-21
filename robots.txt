@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://updandrad.github.io/updandrad.txt.gz
+Sitemap: https://updandrad.github.io/app/updandrad.txt.gz
+Sitemap: https://updandrad.github.io/assets/updandrad.txt.gz
+Sitemap: https://updandrad.github.io/css/updandrad.txt.gz
+Sitemap: https://updandrad.github.io/includes/updandrad.txt.gz
+Sitemap: https://updandrad.github.io/item/updandrad.txt.gz
+Sitemap: https://updandrad.github.io/src/updandrad.txt.gz
